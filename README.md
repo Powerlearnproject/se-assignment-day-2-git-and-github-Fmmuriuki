@@ -59,4 +59,4 @@ Pitfals that new user encounter,
 1. Use branches
 2. Write Descriptive commit messages
 3. Review code before merging it
-4. Make use of project baord.
+4. Make use of project baord. 
